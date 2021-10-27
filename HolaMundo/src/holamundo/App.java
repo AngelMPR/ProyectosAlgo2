@@ -16,7 +16,7 @@ public class App {
        
         System.out.println("Edad : "+Juan.getEdad());
         System.out.println("Datos del objeto:\n" +Juan);
-       
+        System.out.println("...");
     }
     
 }

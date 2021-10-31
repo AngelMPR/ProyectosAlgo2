@@ -15,7 +15,7 @@ public class App {
         Juan.agregarLibro(new Libro("Progra 1"));
        
         System.out.println("Edad : "+Juan.getEdad());
-        System.out.println("Datos del objeto:\n" +Juan);
+        System.out.println("Datos del objetoo:\n" +Juan);
         System.out.println("...");
     }
     
